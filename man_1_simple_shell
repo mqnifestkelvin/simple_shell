@@ -32,7 +32,7 @@ Word length - Buffers of 1024 characacters are used in several aspects of the sh
 .SH BUGS
 No known bugs at this time.
 .SH AUTHORS
-Written by Arthur Damm and Jason Cortella
+Written by Manifest Chakalov and Mary Ishola
 .SH IN PROGRESS
 The following features are currently in progress
     && and || operators
